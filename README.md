@@ -23,6 +23,6 @@ Based on my Luclydean vst plug-in (https://github.com/ezequielabregu/Luclydean)
 
 &nbsp;
 
-<video src="media/euclidean_demo.mp4" controls="controls" style="width: 450px;">
+<video src="media/euclidean_demo_ligth.mp4" controls="controls" style="width: 450px;">
 </video>
 
