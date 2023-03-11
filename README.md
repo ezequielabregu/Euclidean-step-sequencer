@@ -2,10 +2,6 @@
 Euclidean step sequencer hardware.\
 Based on my Luclydean vst plug-in (https://github.com/ezequielabregu/Luclydean)
 
-
-<video src="media/euclidean_demo.mp4" controls="controls" style="width: 450px;">
-</video>
-
 &nbsp;
 
 <img src="media/euclidean.jpg" alt="alt text" title="image Title" width="450"/>
@@ -23,6 +19,10 @@ Based on my Luclydean vst plug-in (https://github.com/ezequielabregu/Luclydean)
 * 12 encoders
 * 4 buttons
 * MIDI out
+* USB MIDI device
 
+&nbsp;
 
+<video src="media/euclidean_demo.mp4" controls="controls" style="width: 450px;">
+</video>
 
